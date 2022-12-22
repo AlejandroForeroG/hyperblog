@@ -3,3 +3,14 @@ body{
     text-align: center;
     font-family: "arial";
 }
+
+.container{
+    width: 80%;
+    padding: 1em;
+    border: 1px solid;
+
+}
+
+.container h1{
+    font-size: 45px;
+}
