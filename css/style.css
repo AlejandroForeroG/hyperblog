@@ -11,6 +11,16 @@ body{
 
 }
 
+.cabecera{
+    background-color: blue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    text-align: left;
+
+}
+
 .container h1{
     font-size: 45px;
 }
